@@ -37,3 +37,27 @@ const myFunction = function() {
 
 console.log(typeof bigNumber);
 
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+let myYoutubename = "rehankhandotcom"
+
+let anothername = myYoutubename
+
+anothername = "rehanaurcode"
+
+console.log(myYoutubename);
+console.log(anothername);
+
+let userOne {
+    email:"user@google.com"
+    upi : 'rehan@ybl'
+}
+
+let userTwo = userOne
+userTwo.email = "rehan@google.com"
+
+console.log(userOne.email);
+console.log(userTwo.email);
+
+
+
